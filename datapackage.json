@@ -32,7 +32,7 @@
           {
             "name": "population",
             "title": "Civilian noninstitutional population",
-            "type": "integer"
+            "type": "number"
           },
           {
             "name": "labor_force",
